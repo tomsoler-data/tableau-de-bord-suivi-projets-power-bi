@@ -1,0 +1,17 @@
+# Fichiers Power BI
+*.pbix
+*.pbit
+
+# Données sources
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Fichiers temporaires
+~$*
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
